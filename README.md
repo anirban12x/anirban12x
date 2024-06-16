@@ -1,12 +1,14 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
+![MasterHead](https://i.redd.it/sn51brnpz6yb1.gif)
 <h1 align="center">Hi 👋, I'm Anirban Bandyopadhyay</h1>
 <h3 align="center">A Passionate Developer</h3>
+<h1 align="left">💫 About Me: </h1>
 <img align="right" alt="Coding" width="200" height="200" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
-
-<h2 align="left">💫 About Me: </h2>
-<br>
+<br><br>
 A BTech CSE student and a Tech Enthusiast 🔭<br>Excited about learning and exploring new things ⚡<br>Doing Full Stack Development and UI/UX designs 😄<br>Interests in Machine Learning and BlockChain 🤔
 <br>
+<br>
+<br>
+
 
 
 
