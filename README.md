@@ -1,8 +1,12 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
+<h1 align="center">Hi 👋, I'm Anirban Bandyopadhyay</h1>
+<h3 align="center">A Passionate Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
 # 💫 About Me:
-A BTech CSE student and a Tech Enthusiast 🔭<br>Passionate about learning and exploring new things ⚡<br>Doing Full Stack Development and UI/UX designs 😄<br>Interests in Machine Learning and BlockChain 🤔
+A BTech CSE student and a Tech Enthusiast 🔭<br>Excited about learning and exploring new things ⚡<br>Doing Full Stack Development and UI/UX designs 😄<br>Interests in Machine Learning and BlockChain 🤔
 
 
 ## 🌐 Socials:
